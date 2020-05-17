@@ -90,8 +90,8 @@ Currently, 911 mainly relies on paramedics, voluntary firefighters or police off
 ### 4. Adding Nexolone to the first-aid kit 
 Given the number of drug overdose death increasing rapidly,  it is time for Nexolone to be legally required and be added to the first-aid kit, to lift the accessibility barriers. In the future the app could also map out publicly available Naloxone kits around the city in select places like apartment buildings and school residences.  
 
-
-
+### 5. Training and Certification of volunteers
+When volunteers register they can be required to go through a mandatory online (or offline) certification course and exam to ensure they are well prepared before being allowed to help any person-at-risk. Only certified volunteers would be notified for help.
 
 ## Team members (alphabetical order)
 
