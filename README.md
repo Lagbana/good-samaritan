@@ -7,6 +7,12 @@ Is an application that can help minimize opioid misuse related harm. As a multi-
 > **Deployed application**: <br> 
 > https://serene-mountain-91633.herokuapp.com/
 
+**Video**:
+<a href="https://www.screencast.com/t/ZhLVJ61Aevrc" target="_blank">
+<img src="https://content.screencast.com/users/Larry2846/folders/Default/media/a8dc19ed-2f5d-4d62-a778-7c0c61ebd101/LWR_Recording.png" alt="VIDEO" width="546px" height="256px" /></a>
+
+
+
 
 ## Facts about drug overdose fatality
 
